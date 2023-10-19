@@ -2,8 +2,7 @@
 <h3 align="center">A frontend developer from South Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+`✉️ Email` [una.t.dev@gmail.com](una.t.dev@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makepin2r&show_icons=true&theme=rose_pine)
 
