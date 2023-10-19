@@ -2,7 +2,8 @@
 
 <h3 align="left">Connect with me:</h3>
 ✉️ Email: <a href="mailto:una.t.dev@gmail.com">una.t.dev@gmail.com</a><br />
-🏠 Blog: <a href="https://makepin2r.github.io">makepin2r.github.io</a>
+🏠 Blog: <a href="https://makepin2r.github.io">makepin2r.github.io</a><br />
+📄 Resume: <a href="una-t-dev.notion.site">이력서 바로가기</a>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makepin2r&show_icons=true&theme=rose_pine)-->
 
