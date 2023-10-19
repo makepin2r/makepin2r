@@ -1,4 +1,9 @@
-<img src="./assets/header.svg" style="width: 100%;" alt="안녕하세요, 프론트엔드 개발자 탁승현입니다">
+<div style="width: 100%;">
+  <!--<img src="welcome.svg" style="width: 100%;" alt="Click to see the source">-->
+  <a href="https://github.com/makepin2r">
+    <img src="./assets/header.svg" style="width: 100%;" alt="안녕하세요, 프론트엔드 개발자 탁승현입니다">
+  </a>
+</div>
 
 ### Connect with me:
 ✉️ Email: <a href="mailto:una.t.dev@gmail.com">una.t.dev@gmail.com</a><br />
