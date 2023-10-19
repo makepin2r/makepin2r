@@ -25,6 +25,7 @@
           color: white;
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          text-align: center;
         }
 
         .hi {
@@ -41,7 +42,7 @@
       </style>
 
       <div class="container">
-        <h1>안녕하세요, 프론트엔드 개발자 탁승현입니다 <div class="hi">👋</div></h1>
+        <h1>안녕하세요,<br/>프론트엔드 개발자 탁승현입니다 <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
