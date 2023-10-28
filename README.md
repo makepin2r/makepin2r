@@ -6,7 +6,7 @@
 </div>
 
 ### Connect with me:
-✉️ Email: <a href="mailto:una.t.dev@gmail.com">una.t.dev@gmail.com</a><br />
+✉️ Email: <a href="mailto:makepin2r@gmail.com">makepin2r@gmail.com</a><br />
 🏠 Blog: <a href="https://makepin2r.github.io" target="_blank">makepin2r.github.io</a><br />
 📄 Resume: <a href="https://una-t-dev.notion.site" target="_blank">이력서 바로가기</a>
 
