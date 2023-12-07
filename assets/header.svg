@@ -105,6 +105,7 @@
 
         h1 {
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
           color: transparent;
           -webkit-background-clip: text;
           animation: gradient 15s ease infinite;
@@ -113,9 +114,7 @@
 
       <div class="container">
         <div class="content-wrap">
-          <div class="content">
-            <h1>안녕하세요,<br/>프론트엔드 개발자 탁승현입니다 <span class="hi">👋</span></h1>
-          </div>
+          <h1>안녕하세요,<br/>프론트엔드 개발자 탁승현입니다 <span class="hi">👋</span></h1>
         </div>
       </div>
     </div>
