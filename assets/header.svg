@@ -50,7 +50,10 @@
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
-          transform-origin: 70% 70%;
+          /* */transform-origin: 70% 70%;
+          background: transparent;
+          color: var(--text-color);
+          -webkit-background-clip: none;
         }
 
         @media (prefers-color-scheme: light) {
@@ -60,6 +63,17 @@
             --color-secondary: #4526f6;
             --color-tertiary: #f6f645;
           }
+          .content-wrap {
+            --background-color: white;
+            --text-color: black;
+          }
+        }
+        
+        @media (prefers-color-scheme: dark) {
+          .content-wrap {
+            --background-color: black;
+            --text-color: white;
+          }
         }
 
         @media (prefers-reduced-motion) {
@@ -67,10 +81,41 @@
             animation: none;
           }
         }
+
+        .content-wrap {
+          width: calc(100% - 30px);
+          height: calc(100% - 30px);
+          background-color: var(--background-color);
+          color: var(--text-color);
+          position: absolute;
+          top: 15px; 
+          left: 15px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .content {
+          width: 100%;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        h1 {
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          color: transparent;
+          -webkit-background-clip: text;
+        }
       </style>
 
       <div class="container">
-        <h1>안녕하세요,<br/>프론트엔드 개발자 탁승현입니다 <div class="hi">👋</div></h1>
+        <div class="content-wrap">
+          <div class="content">
+            <h1>안녕하세요,<br/>프론트엔드 개발자 탁승현입니다 <span class="hi">👋</span></h1>
+          </div>
+        </div>
       </div>
     </div>
   </foreignObject>
