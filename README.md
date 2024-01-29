@@ -1,10 +1,3 @@
-<div style="width: 100%;">
-  <!--<img src="welcome.svg" style="width: 100%;" alt="Click to see the source">-->
-  <a href="https://github.com/makepin2r">
-    <img src="./assets/header.svg" style="width: 100%;" alt="안녕하세요, 프론트엔드 개발자 탁승현입니다">
-  </a>
-</div>
-
 ### Connect with me:
 ✉️ Email: <a href="mailto:makepin2r@gmail.com">makepin2r@gmail.com</a><br />
 🏠 Blog: <a href="https://makepin2r.github.io" target="_blank">makepin2r.github.io</a><br />
