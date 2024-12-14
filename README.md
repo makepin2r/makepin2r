@@ -1,7 +1,7 @@
-### Connect with me:
+### Contact:
 ✉️ Email: <a href="mailto:makepin2r@gmail.com">makepin2r@gmail.com</a><br />
 🏠 Blog: <a href="https://makepin2r.github.io" target="_blank">makepin2r.github.io</a><br />
-<!--📄 Resume: <a href="https://una-t-dev.notion.site" target="_blank">이력서 바로가기</a> -->
+📄 Resume: <a href="https://makepin2r.notion.site/15c0f703440580508a0aeadcbaae787c?pvs=4" target="_blank">Go to page</a><br />
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makepin2r&show_icons=true&theme=rose_pine)-->
 
